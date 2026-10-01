@@ -1,11 +1,12 @@
-<h1 align="center">Welcome! 👋🏼 </h1>
+<h1 align="center">Welcome! I am Mann, 👋🏼 </h1>
 <p align="center">
-Hi, my name is Mann, and I enjoy working on backend and embedded software, with a particular focus on improving the performance of backend systems. In my free time, I work on embedded projects that combine software and hardware, allowing me to learn how a complete product comes to market and understand the underlying principles behind smart devices.
+I am a student at the University Of Calgary. I enjoy working on backend and embedded software, with a particular focus on improving the performance of backend systems. In my free time, I work on embedded projects that combine software and hardware, to learn how a complete product comes to market and understand the underlying principles behind smart devices.
 </p>
 <br>
 <p align="center">
   <a href="mailto:mann.patel1@ucalgary.ca"><img src="https://img.shields.io/badge/EMAIL-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/patel-mann"><img src="https://img.shields.io/badge/LINKEDIN-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <p align="center">Please Reach out via email, i am not much active on LinkedIn</p>
 </p>
 <h2 align="center">Backend</h2>
 <p align="center">
